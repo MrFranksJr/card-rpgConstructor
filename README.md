@@ -1,7 +1,7 @@
-*Oct 12, 2022 - Franky Jr Blondeel*
+*Feb 20, 2022 - Franky Jr Blondeel*
 
 
-# Wizardz n Monsters
+# Wizardz n Monsters - with Constructor functions
 
 ## Overview
 
