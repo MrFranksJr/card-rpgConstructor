@@ -1,21 +1,13 @@
-# co8f149b0aa605367292dd67d
+*Oct 12, 2022 - Franky Jr Blondeel*
 
-Quick start:
 
-```
-$ npm install
-$ npm start
-````
+# Wizardz n Monsters
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+## Overview
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+**Live version [here](https://wizardz-n-monsters.netlify.app/)**
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+This is a small dice-rolling game, teaching different more advanced Javascript concepts.
+This particular repo uses constructor functions in JS, instead of classes.
 
-Happy Coding!
+For a full report and explanation, please visit the [card-rpgClasses](https://github.com/MrFranksJr/card-rpgClasses) repository
